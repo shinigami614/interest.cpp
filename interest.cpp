@@ -1,3 +1,6 @@
+//samuel daniel
+//reg:BCS-03-0118/2025
+
 #include<iostream>
 using namespace  std;
 float sim_interest(float p,float r,float t){
@@ -8,4 +11,5 @@ int main(){
     s_interest=sim_interest(20000,10,12);
     cout <<"Your interest is :"<<s_interest<<endl;
     return 0;
+
 }
